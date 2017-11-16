@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

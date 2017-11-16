@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/Libraries/Image/RCTImageUtils.h

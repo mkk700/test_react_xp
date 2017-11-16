@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Modules/RCTDevMenu.mm \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/MunishKumar/Documents/Development/expriments/react-xp/test_react_xp/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h
